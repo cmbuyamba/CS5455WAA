@@ -1,0 +1,10 @@
+In this lab we follow steps below
+
+Components
+
+edu.mum.cs.cmbk.controller.CalculatorController : the controller to handle http request
+edu.mum.cs.cmbk.domain.Calculator : the computation model
+edu.mum.cs.cmbk.servic.CalculatorServiceImpl : the computation implementation
+edu.mum.cs.cmbk.servic.CalculatorService : the computation interface
+
+WEB-INF/view/calculator.jsp : web form allowing to get sum / product of numbers
